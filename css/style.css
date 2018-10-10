@@ -1,0 +1,30 @@
+
+ body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.addNewTodoItemButton {
+   box-sizing: cover;
+   margin-left: 1.7%;
+}
+
+input {
+	position: relative;
+	left: 2%;
+}
+
+.buttonLogin {
+
+	margin-left: 3%;
+	margin-top: 2%;
+
+}
+
+.container {
+
+   position: absolute;           
+   top: 50%;                        
+   transform: translate(0, -50%) 
+
+}
